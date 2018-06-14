@@ -1,0 +1,1 @@
+"use strict";$(".box").html('\n    <div class="ht">哈哈哈哈哈哈</div>\n    <span>hahahahhaha</span>\n');var a_=function(){console.log("a")};a_();var num=1;function tst(){alert("tst")}
